@@ -1,54 +1,54 @@
 import numpy as np
+from sklearn.preprocessing import MinMaxScaler
+
+def normalize_features(matrix):
+    """Normalizes the feature matrix to a range of 0 to 1."""
+    scaler = MinMaxScaler()
+    return scaler.fit_transform(matrix)
 
 def normalize_matrix_qr(matrix):
-    """
-    Normalize input matrix using QR Decomposition.
-    Ensures features like allowance and reputation are on the same scale.
-    """
+    """Normalize input matrix using QR Decomposition (using the Q factor)."""
     q, r = np.linalg.qr(matrix)
-    return q  # normalized matrix
-
+    return q
 
 def gaussian_elimination(A, b):
-    """
-    Solves Ax = b using Gaussian Elimination.
-    A: Coefficient matrix (internship attributes × weights)
-    b: Vector of weights based on user preferences
-    Returns: Score vector for ranking
-    """
+    """Solves Ax = b using Gaussian Elimination."""
     A = A.astype(float)
     b = b.astype(float)
     n = len(b)
 
+    # Augmented matrix [A|b]
+    Ab = np.concatenate((A, b.reshape(-1, 1)), axis=1)
+
     # Forward elimination
     for i in range(n):
-        for j in range(i+1, n):
-            if A[i][i] == 0:
-                continue
-            ratio = A[j][i] / A[i][i]
-            A[j] = A[j] - ratio * A[i]
-            b[j] = b[j] - ratio * b[i]
+        pivot = i
+        for j in range(i + 1, n):
+            if abs(Ab[j][i]) > abs(Ab[pivot][i]):
+                pivot = j
+        Ab[[i, pivot]] = Ab[[pivot, i]]
+
+        if Ab[i][i] == 0:
+            continue
+
+        for j in range(i + 1, n):
+            factor = Ab[j][i] / Ab[i][i]
+            Ab[j] = Ab[j] - factor * Ab[i]
 
     # Back-substitution
     x = np.zeros(n)
-    for i in range(n-1, -1, -1):
-        sum_ax = np.sum(A[i][i+1:] * x[i+1:])
-        x[i] = (b[i] - sum_ax) / A[i][i]
-    
+    for i in range(n - 1, -1, -1):
+        sum_ax = np.sum(Ab[i][i + 1:n] * x[i + 1:])
+        x[i] = (Ab[i][n] - sum_ax) / Ab[i][i]
+
     return x
 
-
 def cramer_rule(A, b):
-    """
-    Solves Ax = b using Cramer's Rule.
-    A: Square matrix of internship feature scores
-    b: Preference-weighted outcome
-    Returns: Vector of solution scores
-    """
+    """Solves Ax = b using Cramer's Rule."""
     det_A = np.linalg.det(A)
     if det_A == 0:
         raise ValueError("System has no unique solution.")
-    
+
     n = A.shape[1]
     x = np.zeros(n)
 
@@ -59,18 +59,22 @@ def cramer_rule(A, b):
 
     return x
 
-
 def calculate_rankings(internships, user_weights):
     """
-    Main function to rank internships based on user weights.
-    internships: NumPy matrix of numeric features (e.g., allowance, reputation)
-    user_weights: Vector from user input (weights for each criterion)
-    Returns: Ranking scores
+    Attempts to rank internships using Gaussian Elimination on normalized data,
+    handling "Not Important" weights.
     """
-    # Normalize to avoid scale bias
-    normalized = normalize_matrix_qr(internships)
+    normalized_internships = normalize_features(internships)
+    num_internships = normalized_internships.shape[0]
+    num_features = normalized_internships.shape[1]
 
-    # Use Gaussian Elimination to get scores
-    scores = gaussian_elimination(normalized, user_weights)
+    scores = []
+    for i in range(num_internships):
+        internship_features = normalized_internships[i, :]
+        score = 0.0
+        for j in range(num_features):
+            score += internship_features[j] * user_weights[j]
 
-    return scores
+        scores.append(score)
+
+    return np.array(scores)

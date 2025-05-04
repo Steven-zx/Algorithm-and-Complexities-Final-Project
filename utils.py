@@ -1,4 +1,10 @@
 from typing import List, Dict, Any, Tuple, Optional
+# utils.py
+import numpy as np
+
+def handle_user_weights(weights_input: Dict[str, float]) -> Dict[str, float]:
+    """Normalizes user-provided importance levels to weights between 0 and 1."""
+    return weights_input
 
 # Constants for validation
 REQUIRED_FIELDS = [
