@@ -22,7 +22,6 @@ LOCATION_WEIGHTS = {
     "general santos city": 0.25, # Weight if the chosen location is General Santos City
     "palawan": 0.35,   # Weight if the chosen location is Palawan
     "cavite": 0.45,    # Weight if the chosen location is in Cavite
-    "zamboanga city": 0.25, # Weight if the chosen location is Zamboanga City
 }
 
 def calculate_distance_relevance(user_location, internship_location):
