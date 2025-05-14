@@ -142,7 +142,7 @@ Artistic Minds Ltd.,Museum Curation Intern,"History, Research, Cataloging",4500,
 BioTech Innovations,Bioinformatics Intern,"Python, Genomics, Statistics",8800,General Santos City,Yes,4
 Oceanic Research,Marine Biology Intern,"Ecology, Data Collection, Scuba Diving",5200,Palawan,No,3
 Global Transit,Logistics Intern,"Supply Chain, Data Analysis, Optimization",7100,Cavite,Yes,4
-Creative Spark,Game Development Intern,"C#, Unity, Game Design",8000,Zamboanga City,Yes,4
+Creative Spark,Game Development Intern,"C#, Unity, Game Design",8000,Manila City,Yes,4
 Quantum Leap Systems,Blockchain Development Intern,"Solidity, Ethereum, Web3.js",9200,Makati City,Yes,5
 Synapse Solutions,Cloud Security Intern,"AWS Security, Azure Security, Network Security",7800,Taguig City,No,4
 Innovision Labs,Computer Vision Intern,"Python, OpenCV, TensorFlow",8900,Quezon City,Yes,5
@@ -156,7 +156,7 @@ StreamFlow Studios,Live Streaming Technician Intern,"OBS Studio, Wirecast, Video
 RoboTech Dynamics,Robotics Programming Intern,"Python, ROS, C++",8600,Laguna,No,4
 AeroVision Technologies,Drone Videography Intern,"Drone Operation, Aerial Cinematography, Video Editing",6200,Palawan,Yes,3
 SmartAgri Solutions,IoT Development Intern,"Arduino, Raspberry Pi, MQTT",7000,Cavite,No,4
-EduTech Innovations,E-learning Platform Developer Intern,"PHP, Laravel, MySQL",6800,Zamboanga City,Yes,4
+EduTech Innovations,E-learning Platform Developer Intern,"PHP, Laravel, MySQL",6800,Manila City,Yes,4
 HealthLink Systems,Healthcare IT Support Intern,"Network Troubleshooting, Hardware Maintenance",5500,Baguio City,No,3
 FinTech Global,Financial Software Tester Intern,"Selenium, JUnit, Financial Systems",7300,Pasay City,No,4
 GameCraft Studios,Game Programmer Intern,"C#, Unity, Unreal Engine",8800,Dumaguete City,Yes,5
@@ -164,7 +164,7 @@ Artifex Digital,3D Modeler Intern,"Blender, Maya, ZBrush",6100,Antique,Yes,3
 Motion State,Motion Capture Technician Intern,"MotionBuilder, Vicon, Data Processing",5900,General Santos City,No,3
 Virtual Reality Hub,VR Development Intern,"Unity, C#, VR SDKs",8400,Palawan,Yes,5
 Augmented Reality Labs,AR Development Intern,"Unity, C#, ARCore, ARKit",8100,Cavite,Yes,4
-CyberDefense Corp,Security Operations Center (SOC) Intern,"SIEM, Threat Analysis, Incident Handling",7600,Zamboanga City,No,4
+CyberDefense Corp,Security Operations Center (SOC) Intern,"SIEM, Threat Analysis, Incident Handling",7600,Manila City,No,4
 DataMinds AI,NLP Engineer Intern,"Python, NLTK, Transformers",9100,Baguio City,Yes,5
 Signal Processing Inc.,Audio Engineer Intern,"Digital Signal Processing, Acoustics",6700,Pasay City,No,3
 Quantum Computing Ltd.,Quantum Software Intern,"Qiskit, Cirq, Python",9500,Dumaguete City,Yes,5
@@ -172,7 +172,7 @@ SpaceTech Industries,Satellite Image Processing Intern,"Python, Remote Sensing, 
 Green Energy Systems,Smart Grid Intern,"Power Systems, Data Analysis, Python",6900,General Santos City,No,4
 WaterWise Technologies,Hydroinformatics Intern,"Python, Hydrology, Data Modeling",7100,Palawan,No,4
 Future Mobility Corp,Autonomous Vehicle Software Intern,"C++, Robotics, Computer Vision",9300,Cavite,No,5
-AgriTech Analytics,Precision Agriculture Intern,"Data Science, GIS, Agricultural Systems",6600,Zamboanga City,Yes,3
+AgriTech Analytics,Precision Agriculture Intern,"Data Science, GIS, Agricultural Systems",6600,Manila City,Yes,3
 Construction Innovations,BIM Modeler Intern,"Revit, AutoCAD, Navisworks",6300,Baguio City,No,3
 LegalTech Solutions,Legal Informatics Intern,"Data Analysis, Legal Databases, Python",7400,Pasay City,No,4
 Fashion Forward Inc.,Fashion Tech Intern,"E-commerce, Digital Marketing, Data Analysis",5700,Dumaguete City,Yes,3
@@ -180,7 +180,7 @@ Sports Analytics Group,Sports Data Analyst Intern,"R, Statistical Modeling, Spor
 Music Maestro Studios,Music Technology Intern,"Digital Audio Workstations, MIDI",4900,General Santos City,Yes,3
 TravelWise Networks,Tourism Informatics Intern,"Data Analysis, Recommender Systems",6100,Palawan,Yes,4
 Logistics AI,Supply Chain Analyst Intern,"Data Mining, Optimization Algorithms",7700,Cavite,No,4
-HR Tech Innovations,Talent Acquisition Intern,"Data Analysis, HR Software",5300,Zamboanga City,Yes,3
+HR Tech Innovations,Talent Acquisition Intern,"Data Analysis, HR Software",5300,Manila City,Yes,3
 Real Estate Analytics,Property Tech Intern,"Data Visualization, Market Analysis",6000,Baguio City,Yes,4
 Environmental Monitoring Corp,Remote Sensing Analyst Intern,"GIS, Image Processing",6800,Pasay City,No,3
 Public Health Informatics,Health Data Analyst Intern,"SQL, Epidemiology, Data Visualization",7200,Dumaguete City,No,5
@@ -188,7 +188,7 @@ Cultural Heritage Digitization,Digital Archivist Intern,"Metadata, Digital Prese
 Animal Welfare Tech,Animal Biometrics Intern,"Image Recognition, Data Analysis",6500,General Santos City,Yes,4
 Space Exploration Agency,Mission Control Systems Intern,"Linux, Networking, Real-time Systems",8500,Palawan,No,4
 Oceanographic Institute,Marine Data Scientist Intern,"Python, Oceanography, Data Analysis",7900,Cavite,Yes,5
-Disaster Response Tech,Emergency Management Systems Intern,"GIS, Data Analysis, Communication Systems",7000,Zamboanga City,No,4
+Disaster Response Tech,Emergency Management Systems Intern,"GIS, Data Analysis, Communication Systems",7000,Manila City,No,4
 Accessibility Solutions,Assistive Technology Developer Intern,"User Research, Software Development",7600,Baguio City,Yes,4
 Sustainable Energy Corp,Renewable Energy Analyst Intern,"Data Analysis, Energy Modeling",6300,Pasay City,No,3
 Ethical AI Research,AI Safety Intern,"Machine Learning, Ethics, Software Development",8800,Dumaguete City,Yes,5
@@ -196,7 +196,7 @@ Citizen Science Platform,Data Curator Intern,"Data Management, Quality Control",
 Global Health Network,Telemedicine Platform Intern,"Web Development, Healthcare Systems",7400,General Santos City,Yes,4
 Smart City Initiative,Urban Planning Analyst Intern,"GIS, Data Analysis, Policy",6700,Palawan,No,3
 Food Security Tech,Agricultural Data Scientist Intern,"Data Science, Agriculture",7100,Cavite,Yes,4
-Wildlife Conservation Tech,Biodiversity Informatics Intern,"Data Analysis, Ecology",6900,Zamboanga City,No,3
+Wildlife Conservation Tech,Biodiversity Informatics Intern,"Data Analysis, Ecology",6900,Manila City,No,3
 Financial Inclusion Tech,Microfinance Data Analyst Intern,"Data Analysis, Financial Modeling",7300,Baguio City,Yes,4
 Digital Art Collective,Generative Art Intern,"Python, Creative Coding",5500,Pasay City,Yes,3
 Historical Preservation Tech,Digital Restoration Intern,"Image Processing, 3D Modeling",6200,Dumaguete City,Yes,3
@@ -204,7 +204,7 @@ Language Learning Platform,Computational Linguistics Intern,"NLP, Python",7800,A
 Space Tourism Ventures,Astronaut Training Simulation Dev Intern,"Unity, C#, Physics",8200,General Santos City,No,4
 Underwater Exploration Tech,Submersible Robotics Intern,"ROS, Robotics, Control Systems",7500,Palawan,No,4
 Virtual Museum Project,Interactive Exhibit Developer Intern,"Unity, User Experience",6600,Cavite,Yes,4
-Wearable Tech Innovations,Biometric Data Analyst Intern,"Data Analysis, Signal Processing",7000,Zamboanga City,No,4
+Wearable Tech Innovations,Biometric Data Analyst Intern,"Data Analysis, Signal Processing",7000,Manila City,No,4
 Assistive Robotics Lab,Human-Robot Interaction Intern,"ROS, Robotics, Psychology",7900,Baguio City,No,5
 Sustainable Agriculture AI,Crop Disease Detection Intern,"Computer Vision, Machine Learning",8100,Pasay City,Yes,5
 Personalized Medicine Initiative,Genomic Data Analyst Intern,"Bioinformatics, Statistics",8400,Dumaguete City,No,5
@@ -212,7 +212,7 @@ Smart Home Automation,Home Automation Systems Intern,"IoT, Python, Networking",6
 Educational Gaming Company,Educational Game Developer Intern,"Unity, C#, Game Design",7200,General Santos City,Yes,4
 Cultural Analytics Project,Digital Humanities Intern,"Data Analysis, Text Mining",5900,Palawan,Yes,3
 Space Habitat Design,Architectural Visualization Intern,"3D Modeling, Rendering",6300,Cavite,Yes,3
-Precision Forestry Corp,Forestry Informatics Intern,"GIS, Remote Sensing, Data Analysis",6800,Zamboanga City,No,4
+Precision Forestry Corp,Forestry Informatics Intern,"GIS, Remote Sensing, Data Analysis",6800,Manila City,No,4
 Renewable Energy Grid Management,Grid Optimization Intern,"Power Systems, Optimization",7700,Baguio City,No,4
 Social Impact Analytics,Nonprofit Data Analyst Intern,"Data Analysis, Social Science",6100,Pasay City,Yes,3
 Urban Mobility Solutions,Transportation Data Analyst Intern,"Data Analysis, GIS",7400,Dumaguete City,Yes,4
@@ -220,7 +220,7 @@ Wildlife Tracking Initiative,Telemetry Data Analyst Intern,"Data Analysis, Ecolo
 Financial Trading Platform,Algorithmic Trading Intern,"Python, Finance, Quantitative Analysis",8900,General Santos City,No,5
 E-sports Analytics,Competitive Gaming Analyst Intern,"Data Analysis, Statistics, Gaming Knowledge",6000,Palawan,Yes,3
 Virtual Concert Platform,Interactive Media Developer Intern,"Web Development, Multimedia",6900,Cavite,Yes,4
-Smart Textiles Research,Wearable Sensor Integration Intern,"Electronics, Programming",7100,Zamboanga City,No,4
+Smart Textiles Research,Wearable Sensor Integration Intern,"Electronics, Programming",7100,Manila City,No,4
 Precision Livestock Farming,Livestock Data Analyst Intern,"Data Analysis, Animal Science",6700,Baguio City,Yes,3
 Sustainable Fisheries Tech,Aquaculture Informatics Intern,"Data Analysis, Marine Biology",7300,Pasay City,Yes,4
 Mental Wellness App,UX Researcher Intern,"User Research, Psychology",5600,Dumaguete City,Yes,3
@@ -228,7 +228,7 @@ Digital Storytelling Platform,Interactive Narrative Designer Intern,"Writing, Mu
 Space Law Institute,Space Policy Analyst Intern,"Research, Law, Policy",7800,General Santos City,No,4
 Underground Farming Tech,Vertical Farming Systems Intern,"IoT, Agriculture",7000,Palawan,No,4
 Virtual Language Exchange,Language Technology Intern,"NLP, Web Development",7500,Cavite,Yes,4
-Citizen Journalism Platform,Data Verification Intern,"Fact-checking, Data Analysis",5800,Zamboanga City,Yes,3
+Citizen Journalism Platform,Data Verification Intern,"Fact-checking, Data Analysis",5800,Manila City,Yes,3
 Global Education Network,Online Course Developer Intern,"Instructional Design, Web Development",6200,Baguio City,Yes,4
 Accessible Tourism Initiative,Universal Design Intern,"User Research, Design Principles",5400,Pasay City,Yes,3
 Space Debris Removal,Orbital Mechanics Simulation Intern,"Physics, Programming",8300,Dumaguete City,No,4
@@ -236,7 +236,7 @@ Ethical Hacking Group,Vulnerability Assessment Intern,"Cybersecurity, Ethical Ha
 Bioprinting Research Lab,3D Bioprinting Intern,"CAD, Biology, Materials Science",7900,General Santos City,No,4
 Quantum Cryptography Corp,Quantum Security Intern,"Cryptography, Physics, Programming",9600,Palawan,No,5
 Sustainable Construction Tech,Green Building Design Intern,"Architecture, Environmental Science",6600,Cavite,No,3
-Digital Archaeology Project,3D Reconstruction Intern,"3D Modeling, History",6100,Zamboanga City,Yes,3
+Digital Archaeology Project,3D Reconstruction Intern,"3D Modeling, History",6100,Manila City,Yes,3
 Smart Packaging Solutions,Packaging Technology Intern,"Materials Science, Engineering",6900,Baguio City,No,3
 Personalized Fitness App,Fitness Data Analyst Intern,"Data Analysis, Exercise Science",7200,Pasay City,Yes,4
 Virtual Fashion Show,Digital Fashion Designer Intern,"3D Modeling, Fashion Design",5900,Dumaguete City,Yes,3
@@ -244,7 +244,7 @@ Brain-Computer Interface Lab,BCI Research Intern,"Neuroscience, Signal Processin
 Space Resources Utilization,Extraterrestrial Mining Intern,"Engineering, Geology",8100,General Santos City,No,4
 Ocean Cleanup Initiative,Marine Robotics Intern,"Robotics, Engineering",7600,Palawan,No,4
 Virtual Art Gallery,Web Developer Intern,"React, Three.js",7300,Cavite,Yes,4
-Smart City Governance,Civic Tech Intern,"Data Analysis, Public Policy",6400,Zamboanga City,No,3
+Smart City Governance,Civic Tech Intern,"Data Analysis, Public Policy",6400,Manila City,No,3
 Food Waste Reduction Tech,Food Science Informatics Intern,"Data Analysis, Food Science",6700,Baguio City,Yes,3
 Global Disaster Mapping,Remote Sensing Analyst Intern,"GIS, Disaster Management",7000,Pasay City,No,4
 Accessible Gaming Initiative,Game Accessibility Tester Intern,"Game Testing, Disability Awareness",5300,Dumaguete City,Yes,3
@@ -252,7 +252,7 @@ Space Agriculture Research,Plant Science Informatics Intern,"Data Analysis, Biol
 Underwater Habitat Research,Marine Engineering Intern,"Engineering, Marine Biology",7400,General Santos City,No,4
 Virtual Reality Therapy,VR Application Developer Intern,"Unity, C#, Psychology",8500,Palawan,Yes,5
 AI-Powered Education Tools,Educational Data Mining Intern,"Data Mining, Education",7100,Cavite,Yes,4
-Smart Infrastructure Management,Civil Engineering Informatics Intern,"Data Analysis, Civil Engineering",6800,Zamboanga City,No,3
+Smart Infrastructure Management,Civil Engineering Informatics Intern,"Data Analysis, Civil Engineering",6800,Manila City,No,3
 Precision Medicine Diagnostics,Medical Imaging Analyst Intern,"Image Processing, Medicine",7900,Baguio City,No,4
 Sustainable Urban Development,Urban Informatics Intern,"Data Analysis, Urban Planning",6500,Pasay City,No,3
 Virtual Cultural Heritage Site,3D Artist Intern,"3D Modeling, Texturing",6000,Dumaguete City,Yes,3
@@ -260,7 +260,7 @@ Brainwave Music Generation,Neurofeedback Technology Intern,"Signal Processing, M
 Spacecraft Propulsion Systems,Aerospace Engineering Intern,"Thermodynamics, Propulsion",8200,General Santos City,No,4
 Ocean Current Energy,Marine Renewable Energy Intern,"Engineering, Oceanography",7300,Palawan,No,4
 Virtual Job Fair Platform,Web Development Intern,"Angular, TypeScript",7000,Cavite,Yes,4
-Smart Waste Management,Environmental Informatics Intern,"Data Analysis, Environmental Science",6300,Zamboanga City,No,3
+Smart Waste Management,Environmental Informatics Intern,"Data Analysis, Environmental Science",6300,Manila City,No,3
 Personalized Nutrition App,Nutrition Informatics Intern,"Data Analysis, Nutrition Science",6600,Baguio City,Yes,3
 Global Climate Change Modeling,Climate Data Analyst Intern,"Data Analysis, Climate Science",7500,Pasay City,No,4
 Accessible Transportation Systems,Transportation Planning Intern,"Data Analysis, Urban Planning",6100,Dumaguete City,No,3
@@ -268,7 +268,7 @@ Space Food Production,Astrobiology Research Intern,"Biology, Chemistry",7800,Ant
 Underwater Archaeology,Marine Archaeologist Intern,"Archaeology, Marine Science",7100,General Santos City,No,4
 Virtual Reality Training Simulations,VR Trainer Developer Intern,"Unity, Instructional Design",8000,Palawan,Yes,4
 AI-Powered Legal Research,Legal Tech Developer Intern,"NLP, Legal Databases",7400,Cavite,Yes,4
-Smart Building Management Systems,Building Automation Intern,"IoT, Engineering",6700,Zamboanga City,No,3
+Smart Building Management Systems,Building Automation Intern,"IoT, Engineering",6700,Manila City,No,3
 Precision Livestock Health Monitoring,Veterinary Informatics Intern,"Data Analysis, Veterinary Science",6900,Baguio City,Yes,3
 Sustainable Fashion E-commerce,Fashion Informatics Intern,"Data Analysis, E-commerce",6200,Pasay City,Yes,3
 Global Pandemic Modeling,Epidemiological Data Analyst Intern,"Data Analysis, Public Health",7700,Dumaguete City,No,5
@@ -276,7 +276,7 @@ Accessible Learning Technologies,Educational Software Developer Intern,"Web Deve
 Space Telescope Data Analysis,Astrophysics Research Intern,"Python, Astronomy",8400,General Santos City,No,5
 Ocean Acidification Research,Marine Chemistry Intern,"Chemistry, Marine Science",7200,Palawan,No,4
 Virtual Reality Fitness Games,VR Game Developer Intern,"Unity, C#, Fitness",7500,Cavite,Yes,4
-AI-Driven Music Composition,Computational Musicology Intern,"Music Theory, AI",6800,Zamboanga City,Yes,3
+AI-Driven Music Composition,Computational Musicology Intern,"Music Theory, AI",6800,Manila City,Yes,3
 Smart Grid Cybersecurity,Power Systems Security Intern,"Cybersecurity, Power Systems",7900,Baguio City,No,4
 Personalized Language Learning,Language AI Developer Intern,"NLP, Software Development",7100,Pasay City,Yes,5
 Global Deforestation Monitoring,Remote Sensing Analyst,"GIS, Environmental Science",7400,Dumaguete City,No,4
